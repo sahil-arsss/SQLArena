@@ -1,0 +1,83 @@
+# =========================
+
+# Node Modules (Both frontend + backend)
+
+# =========================
+
+node_modules/
+
+# =========================
+
+# Environment Variables (IMPORTANT)
+
+# =========================
+
+backend/.env
+frontend/.env
+.env
+.env.*
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# Build Files (Frontend)
+
+# =========================
+
+frontend/dist/
+frontend/build/
+frontend/.next/
+
+# =========================
+
+# Backend Build / Temp
+
+# =========================
+
+backend/dist/
+
+# =========================
+
+# Database Files
+
+# =========================
+
+*.sqlite
+*.db
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# IDE / Editor
+
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+
+# Misc
+
+# =========================
+
+*.local
+coverage/
+tmp/
+temp/
